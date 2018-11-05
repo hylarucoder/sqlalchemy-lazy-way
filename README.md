@@ -7,7 +7,7 @@
 
 ## 目的
 
-使用 sqlalchemy 之后，很多查询写起来特别啰嗦。
+使用 sqlalchemy 之后，很多查询写起来特别啰嗦。为了在提高效率的基础上能挽留点头发 , 于是开了这个项目。
 
 1. Django Like Query
 2. Common Utils
@@ -27,4 +27,6 @@ brew install python3
 mit
 
 ## Credits
+
+- smart_query ported from https://github.com/mitsuhiko/sqlalchemy-django-query/blob/master/tests.py
 
