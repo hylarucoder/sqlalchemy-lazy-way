@@ -24,7 +24,7 @@ include = []
 
 license = "MIT"
 packages = [
-    { include = "sqlalchemy-lazy-way" },
+    { include = "sqlalchemy_lazy_way" },
 ]
 
 authors = [
@@ -54,8 +54,5 @@ mypy = "*"
 pytest = "*"
 pytest-cov = "*"
 pytest-html = "*"
-pytest-sugar = "*"
 sphinx = "*"
-
-
 
